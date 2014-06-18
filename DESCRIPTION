@@ -9,4 +9,5 @@ Maintainer: Joaquin Bedia <bediaj@unican.es>
 BugReports: https://github.com/SantanderMetGroup/downscaleR.java/issues
 URL: http://www.unidata.ucar.edu/downloads/netcdf/netcdf-java-4/index.jsp
 Description: Initializes the Unidata's netCDF java library that implements the full CDM model, including all other jar dependencies. Current version of 4.3.22 (May 27, 2014). This package is a dependency of the 'ecomsUDG.Raccess' and 'downscaleR' packages and it is needed for loading climate datasets. For details on the NetCDF Java Library go to http://www.unidata.ucar.edu/software/thredds/current/netcdf-java/documentation.htm. 
+Copyright: inst/COPYRIGHT
 License: GPL-2
