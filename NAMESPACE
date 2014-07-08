@@ -1,1 +1,2 @@
 import("rJava")
+export("javaString2rChar", "javaCalendarDate2rPOSIXlt")
